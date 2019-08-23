@@ -1,0 +1,200 @@
+---
+title: "Jinseob Kim's resume"
+author: Jinseob Kim
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Jinseob Kim](http://ruck2018.r-kor.org/wp-content/uploads/2018/08/jinseob2kim.jpg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jinseob2kim@zarathu.com
+- <i class="fa fa-github"></i> [github.com/jinseob2kim](https://github.com/jinseob2kim)
+- <i class="fa fa-phone"></i> +82-10-9192-5385
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis, statistical learning models, and optimization methods.
+
+- Full experience with next generation sequencing data analysis.
+
+- Highly skilled in R, Bash, Perl, Python, LaTeX
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Jinseob Kim {#title}
+--------------------------------------------------------------------------------
+
+### Currently CEO of [Zarathu Co.,Ltd](https://app.zarathu.com)
+
+Please note that this is a *real* resume, and I'm really looking for a PhD
+student position at the moment. I made this resume because Yihui asked me
+if I'd like to test the **pagedown** package with my resume. If you are
+interested in my background and skills, please feel free to contact me.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Sungkyunkwan University School of Medicine
+
+B.S. in Medicine
+
+Suwon, Korea 
+
+2009
+
+Medical Doctor
+
+### Seoul National University
+
+Master of Public Health
+
+Seoul, Korea 
+
+2014
+
+Thesis: Linkage Disequilibrium Information within Monozygotic Twin Pairs 
+
+### Seoul National University
+
+Ph.D candidate in Genetic Epidemiology
+
+Seoul, Korea 
+
+2020
+
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Residency in Preventive Medicine
+
+Graduate School of Public Health, Seoul National University
+
+Seoul, Korea
+
+2010 - 2013
+
+
+### Software Engineer
+
+Samsung Electronics Co., Ltd.
+
+Suwon, Korea
+
+2014 - 2016
+
+- Development digital healthcare solution in DMC R&D center
+- Analyze mobile health data(Samsung Health, Gear) in Mobile Division
+
+
+### CEO
+
+Zarathu Co., Ltd
+
+Seoul, Korea
+
+2018 - 2020
+
+- Provide customized statistical applications to medical researchers
+- Provide general statistical applications with [web](http://app.zarathu.com)
+- Development [R packages](https://cran.r-project.org/package=jsmodule) for the applications
+
+
+Awards {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Startup Support Program
+
+Ministry of SMEs and Startups
+
+Daejeon, China
+
+2018
+
+- Blockchain based Health Big Data Platform and Precision Medicine Solution.
+
+
+### Startup Idea Competition
+
+Health Insurance Review & Assessment Service
+
+Wonju, Korea
+
+2018
+
+- Customized statistical applications for medical research. 
+
+
+Open Source Contribution {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### R package for Kaplan-meier Plot
+
+2018
+
+- [CRAN](https://cran.r-project.org/package=jskm)
+
+### R package for Regression Table.
+
+2018
+
+- Teaching assistant of GBS CB2-201 courses at UAB
+
+### RStudio Addins and Shiny Modules for medical research.
+
+2018
+
+- Teaching assistant of GBS CB2-201 courses at UAB
+
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Physiologic and Clinical Assessment of Resting Physiologic Indices: Resting Full-Cycle Ratio, Diastolic Pressure-Ratio, and Instantaneous Wave-Free Ratio.
+
+Circulation. 2019;139:889–900
+
+N/A
+
+2018 
+
+Joo Myung Lee, Ki Hong Choi, Jonghanne Park, Doyeon Hwang, Tae-Min Rhee, **Jinseob Kim**, Jinhyoung Park, Hyung Yoon Kim, Hae Won Jung, Yun-Kyeong Cho, Hyuck-Jun Yoon, Young Bin Song, Joo-Yong Hahn, Chang-Wook Nam, Eun-Seok Shin, Joon-Hyung Doh, Seung-Ho Hur, Bon-Kwon Koo
+
+
+### Effect of Climate Factors on the Childhood Pneumonia in Papua New Guinea: A Time-Series Analysis.
+
+Int. J. Environ. Res. Public Health 2016, 13(2), 213
+
+N/A
+
+2016
+
+**Jinseob Kim**, Jong-Hun Kim, Hae-Kwan Cheong ,Ho Kim, Yasushi Honda, Mina Ha, Masahiro Hashizume , Joel Kolam and Kasis Inape.
+
