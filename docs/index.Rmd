@@ -27,13 +27,11 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis/consulting, R package & Shiny app development.
+- Statistical analysis/consulting, R package & Shiny app development.
 
-- Experience with clinical, genome, mobile and wearable data.
+- Experience with various health data(e.g. clinical, genome, mobile and wearable)
 
-- Highly skilled in R, Shiny.
-
-
+- DevOps building with Docker, Docker swarm and CI/CD pipeline.
 
 
 Disclaimer {#disclaimer}
@@ -115,7 +113,7 @@ Suwon, Korea
 - Analyze mobile health data(Samsung Health, Gear), Mobile Division
 
 
-### CEO
+### Founder & CEO
 
 Zarathu Co., Ltd
 
@@ -152,6 +150,31 @@ Wonju, Korea
 - Customized statistical applications for medical research. 
 
 
+Presentation {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DevOps Building for Customized Statistical Application.
+
+[R User Conference in Korea(RUCK 2018)](http://ruck2018.r-kor.org/presentations/RUCK2018-%EA%B9%80%EC%A7%84%EC%84%AD-%EB%A7%9E%EC%B6%A4%ED%98%95_%EC%9D%98%ED%95%99%ED%86%B5%EA%B3%84_%EC%95%B1_%EC%A0%9C%EC%9E%91%EC%9D%84_%EC%9C%84%ED%95%9C_%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD_%EA%B5%AC%EC%B6%95.html)
+
+Seoul, Korea
+
+2018
+
+### Blog
+
+Statistical blog in Korean
+
+Seoul, Korea
+
+2018
+
+- Zarathu: https://blog.zarathu.com
+- Private: https://jinseob2kim.github.io
+- SlideShare: https://www.slideshare.net/secondmath
+
+
+
 Open Source Contribution {data-icon=code}
 --------------------------------------------------------------------------------
 
@@ -184,9 +207,20 @@ N/A
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### Socioeconomic Status and Number of Children Among Korean Women: The Healthy Twin Study
+
+[J Prev Med Public Health 2013; 46(1): 50-60](https://doi.org/10.3961/jpmph.2013.46.1.50)
+
+N/A
+
+2013
+
+**Jinseob Kim**, Joohon Sung
+
+
 ### Effect of Climate Factors on the Childhood Pneumonia in Papua New Guinea: A Time-Series Analysis.
 
-Int. J. Environ. Res. Public Health 2016, 13(2), 213
+[Int. J. Environ. Res. Public Health 2016, 13(2), 213](https://doi.org/10.3390/ijerph13020213)
 
 N/A
 
@@ -197,7 +231,7 @@ N/A
 
 ### Physiologic and Clinical Assessment of Resting Physiologic Indices: Resting Full-Cycle Ratio, Diastolic Pressure-Ratio, and Instantaneous Wave-Free Ratio.
 
-Circulation. 2019;139:889–900
+[Circulation. 2019;139:889–900](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.037021)
 
 N/A
 
