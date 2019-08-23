@@ -11,8 +11,8 @@ output:
 Aside
 ================================================================================
 
-
 ![Jinseob Kim](http://ruck2018.r-kor.org/wp-content/uploads/2018/08/jinseob2kim.jpg){width=80%}
+
 
 
 Contact Info {#contact}
@@ -27,11 +27,13 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
+- Experienced in statistical analysis/consulting, R package & Shiny app development.
 
-- Full experience with next generation sequencing data analysis.
+- Experience with clinical, genome, mobile and wearable data.
 
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+- Highly skilled in R, Shiny.
+
+
 
 
 Disclaimer {#disclaimer}
@@ -41,6 +43,7 @@ This resume was made with the R package [**pagedown**](https://github.com/rstudi
 
 Last updated on `r Sys.Date()`.
 
+![Zarthu](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/Color%20logo%20-%20no%20background.png){width=100%}
 
 
 Main
@@ -49,12 +52,10 @@ Main
 Jinseob Kim {#title}
 --------------------------------------------------------------------------------
 
-### Currently CEO of [Zarathu Co.,Ltd](https://app.zarathu.com)
+### Currently CEO of [Zarathu Co.,Ltd](https://www.zarathu.com)
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
+I'd like to contribute to research in medical field through customized statistical support.
+
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -89,6 +90,7 @@ Seoul, Korea
 2020
 
 
+
 Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
@@ -109,8 +111,8 @@ Suwon, Korea
 
 2014 - 2016
 
-- Development digital healthcare solution in DMC R&D center
-- Analyze mobile health data(Samsung Health, Gear) in Mobile Division
+- Develop digital healthcare solution, DMC R&D center
+- Analyze mobile health data(Samsung Health, Gear), Mobile Division
 
 
 ### CEO
@@ -122,23 +124,22 @@ Seoul, Korea
 2018 - 2020
 
 - Provide customized statistical applications to medical researchers
-- Provide general statistical applications with [web](http://app.zarathu.com)
+- Provide general statistical applications with web: http://app.zarathu.com
 - Development [R packages](https://cran.r-project.org/package=jsmodule) for the applications
 
 
-Awards {data-icon=suitcase}
+Award {data-icon=award}
 --------------------------------------------------------------------------------
 
 ### Startup Support Program
 
-Ministry of SMEs and Startups
+[Ministry of SMEs and Startups](https://www.k-startup.go.kr/univ/cmm/main/mainPage.do)
 
 Daejeon, China
 
 2018
 
-- Blockchain based Health Big Data Platform and Precision Medicine Solution.
-
+- Blockchain based Health Big Data Platform and Precision Medicine Solution($50,000).
 
 ### Startup Idea Competition
 
@@ -151,31 +152,48 @@ Wonju, Korea
 - Customized statistical applications for medical research. 
 
 
-Open Source Contribution {data-icon=chalkboard-teacher}
+Open Source Contribution {data-icon=code}
 --------------------------------------------------------------------------------
 
-### R package for Kaplan-meier Plot
+### R Package
+
+CRAN
+
+N/A
 
 2018
 
-- [CRAN](https://cran.r-project.org/package=jskm)
+- Kaplan-meier plot: https://cran.r-project.org/package=jskm
+- Regression table: https://cran.r-project.org/package=jstable
+- RStudio Addins and Shiny Modules for Medical Research: https://cran.r-project.org/package=jsmodule
 
-### R package for Regression Table.
+
+### Docker Image
+
+Docker hub
+
+N/A
 
 2018
 
-- Teaching assistant of GBS CB2-201 courses at UAB
+- RStudio & Shiny server: https://cloud.docker.com/repository/docker/jinseob2kim/docker-rshiny
 
-### RStudio Addins and Shiny Modules for medical research.
-
-2018
-
-- Teaching assistant of GBS CB2-201 courses at UAB
 
 
 
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
+
+### Effect of Climate Factors on the Childhood Pneumonia in Papua New Guinea: A Time-Series Analysis.
+
+Int. J. Environ. Res. Public Health 2016, 13(2), 213
+
+N/A
+
+2016
+
+**Jinseob Kim**, Jong-Hun Kim, Hae-Kwan Cheong ,Ho Kim, Yasushi Honda, Mina Ha, Masahiro Hashizume , Joel Kolam and Kasis Inape.
+
 
 ### Physiologic and Clinical Assessment of Resting Physiologic Indices: Resting Full-Cycle Ratio, Diastolic Pressure-Ratio, and Instantaneous Wave-Free Ratio.
 
@@ -187,14 +205,4 @@ N/A
 
 Joo Myung Lee, Ki Hong Choi, Jonghanne Park, Doyeon Hwang, Tae-Min Rhee, **Jinseob Kim**, Jinhyoung Park, Hyung Yoon Kim, Hae Won Jung, Yun-Kyeong Cho, Hyuck-Jun Yoon, Young Bin Song, Joo-Yong Hahn, Chang-Wook Nam, Eun-Seok Shin, Joon-Hyung Doh, Seung-Ho Hur, Bon-Kwon Koo
 
-
-### Effect of Climate Factors on the Childhood Pneumonia in Papua New Guinea: A Time-Series Analysis.
-
-Int. J. Environ. Res. Public Health 2016, 13(2), 213
-
-N/A
-
-2016
-
-**Jinseob Kim**, Jong-Hun Kim, Hae-Kwan Cheong ,Ho Kim, Yasushi Honda, Mina Ha, Masahiro Hashizume , Joel Kolam and Kasis Inape.
 
