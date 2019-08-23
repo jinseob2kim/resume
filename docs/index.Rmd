@@ -85,7 +85,7 @@ Ph.D candidate in Genetic Epidemiology
 
 Seoul, Korea 
 
-2020
+N/A
 
 
 
@@ -98,7 +98,7 @@ Graduate School of Public Health, Seoul National University
 
 Seoul, Korea
 
-2010 - 2013
+2013
 
 
 ### Software Engineer
@@ -119,11 +119,11 @@ Zarathu Co., Ltd
 
 Seoul, Korea
 
-2018 - 2020
+2018
 
 - Provide customized statistical applications to medical researchers
 - Provide general statistical applications with web: http://app.zarathu.com
-- Development [R packages](https://cran.r-project.org/package=jsmodule) for the applications
+- Develop [R packages](https://cran.r-project.org/package=jsmodule) for the applications
 
 
 Award {data-icon=award}
@@ -141,11 +141,11 @@ Daejeon, Korea
 
 ### Startup Idea Competition
 
-Health Insurance Review & Assessment Service
+[Health Insurance Review & Assessment Service](https://opendata.hira.or.kr/home.do)
 
 Wonju, Korea
 
-2018
+N/A
 
 - Customized statistical applications for medical research. 
 
@@ -165,9 +165,9 @@ Seoul, Korea
 
 Statistical blog in Korean
 
-Seoul, Korea
+N/A
 
-2018
+N/A
 
 - Zarathu: https://blog.zarathu.com
 - Private: https://jinseob2kim.github.io
@@ -197,7 +197,7 @@ Docker hub
 
 N/A
 
-2018
+N/A
 
 - RStudio & Shiny server: https://cloud.docker.com/repository/docker/jinseob2kim/docker-rshiny
 
