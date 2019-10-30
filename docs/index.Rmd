@@ -20,7 +20,6 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> jinseob2kim@zarathu.com
 - <i class="fa fa-github"></i> [github.com/jinseob2kim](https://github.com/jinseob2kim)
-- <i class="fa fa-phone"></i> +82-10-9192-5385
 - For more information, please contact me via email.
 
 
@@ -161,6 +160,14 @@ Seoul, Korea
 
 2018
 
+### From ShinyApps to CRAN
+
+[R User Conference in Korea(RUCK 2019)](http://ruck2019.r-kor.org/speakers/zarathu/)
+
+Seoul, Korea
+
+2019
+
 ### Blog
 
 Statistical blog in Korean
@@ -218,6 +225,29 @@ N/A
 **Jinseob Kim**, Joohon Sung
 
 
+### Association between local government social expenditures and mortality levels in Korea
+
+[J Prev Med Public Health 2013; 46(1): 1-9](https://dx.doi.org/10.3961%2Fjpmph.2013.46.1.1)
+
+N/A
+
+2013
+
+Hansoo Ko, **Jinseob Kim**, Donggil Kim, Saerom Kim, Yukyung Park, Chang-yup Kim
+
+
+### Do antenatal care visits always contribute to facility-based delivery in Tanzania? A study of repeated cross-sectional data
+
+[Health Policy and Planning, Volume 31, Issue 3, April 2016, Pages 277–284](https://doi.org/10.1093/heapol/czv054)
+
+N/A
+
+2015
+
+Seung-Ah Choe, **Jinseob Kim**, Saerom Kim, Yukyung Park, Siril Michael Kullaya, Chang-yup Kim
+
+
+
 ### Effect of Climate Factors on the Childhood Pneumonia in Papua New Guinea: A Time-Series Analysis.
 
 [Int. J. Environ. Res. Public Health 2016, 13(2), 213](https://doi.org/10.3390/ijerph13020213)
@@ -227,6 +257,28 @@ N/A
 2016
 
 **Jinseob Kim**, Jong-Hun Kim, Hae-Kwan Cheong ,Ho Kim, Yasushi Honda, Mina Ha, Masahiro Hashizume , Joel Kolam and Kasis Inape.
+
+
+### Associations between malaria and local and global climate variability in five regions in Papua New Guinea
+
+[Trop Med Health 44, 23 (2016)](http://tropmedhealth.biomedcentral.com/articles/10.1186/s41182-016-0021-x)
+
+N/A
+
+2016
+
+Chisato Imai, Hae-Kwan Cheong, Ho Kim, Yasushi Honda, Jin-Hee Eum, Clara T. Kim, **Jin Seob Kim**, Yoonhee Kim, Swadhin K. Behera, Mohd Nasir Hassan, Joshua Nealon, Hyenmi Chung & Masahiro Hashizume 
+
+
+### Age, Period, and Cohort Effects on Suicide Mortality in South Korea, 1992–2015
+
+[Int. J. Environ. Res. Public Health 2018, 15(8), 1580](https://www.mdpi.com/1660-4601/15/8/1580)
+
+N/A
+
+2018
+
+Soonjoo Park, Yeong-Jun Song, **Jinseob Kim**, Myung Ki, Ji-Yeon Shin, Young-Man Kwon and Jiseun Lim
 
 
 ### Physiologic and Clinical Assessment of Resting Physiologic Indices: Resting Full-Cycle Ratio, Diastolic Pressure-Ratio, and Instantaneous Wave-Free Ratio.
@@ -240,3 +292,12 @@ N/A
 Joo Myung Lee, Ki Hong Choi, Jonghanne Park, Doyeon Hwang, Tae-Min Rhee, **Jinseob Kim**, Jinhyoung Park, Hyung Yoon Kim, Hae Won Jung, Yun-Kyeong Cho, Hyuck-Jun Yoon, Young Bin Song, Joo-Yong Hahn, Chang-Wook Nam, Eun-Seok Shin, Joon-Hyung Doh, Seung-Ho Hur, Bon-Kwon Koo
 
 
+### Clinical Outcome of Lesions With Discordant Results Among Different Invasive Physiologic Indices　- Resting Distal Coronary to Aortic Pressure Ratio, Resting Full-Cycle Ratio, Diastolic Pressure Ratio, Instantaneous Wave-Free Ratio, and Fractional Flow Reserve.
+
+[Circulation Journal, 2019, Volume 83, Issue 11](https://www.jstage.jst.go.jp/article/circj/83/11/83_CJ-19-0230/_article)
+
+N/A
+
+2019
+
+Joo Myung Lee, Tae-Min Rhee, Ki Hong Choi, Jonghanne Park, Doyeon Hwang, **Jinseob Kim**, Jinhyoung Park, Hyung Yoon Kim, Hae Won Jung, Yun-Kyeong Cho, Hyuck-Jun Yoon, Young Bin Song, Joo-Yong Hahn, Chang-Wook Nam, Eun-Seok Shin, Joon-Hyung Doh, Seung-Ho Hur, Bon-Kwon Koo
