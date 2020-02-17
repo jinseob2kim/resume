@@ -149,6 +149,18 @@ N/A
 - Customized statistical applications for medical research. 
 
 
+### K-Global Cloud based SW DevOps Support Program
+
+[National IT Industry Promotion Agency](http://me2.do/F2czYdSS)
+
+Jincheon-gun, Chungcheongbuk-do, Korea
+
+2020
+
+- Customized statistical applications for medical research($6,000).
+
+
+
 Presentation {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
@@ -301,3 +313,26 @@ N/A
 2019
 
 Joo Myung Lee, Tae-Min Rhee, Ki Hong Choi, Jonghanne Park, Doyeon Hwang, **Jinseob Kim**, Jinhyoung Park, Hyung Yoon Kim, Hae Won Jung, Yun-Kyeong Cho, Hyuck-Jun Yoon, Young Bin Song, Joo-Yong Hahn, Chang-Wook Nam, Eun-Seok Shin, Joon-Hyung Doh, Seung-Ho Hur, Bon-Kwon Koo
+
+
+### Reduced awareness of surroundings is the most central domain in the network structure of posttraumatic stress disorder symptoms
+
+[Nord J Psychiatry. 2019 Dec 19:1-9](https://www.tandfonline.com/doi/abs/10.1080/08039488.2019.1692234?journalCode=ipsc20)
+
+N/A
+
+2019
+
+Seon-Cheol Park, **Jinseob Kim**, Daeho Kim
+
+
+### Comparative Risk of Clostridium difficile Infection between Proton Pump Inhibitors and Histamine‐2 Receptor Antagonists: A 15‐year Hospital Cohort Study Using a Common Data Model
+
+[J Gastroenterol Hepatol. 2020 Jan 23](https://onlinelibrary.wiley.com/doi/abs/10.1111/jgh.14983)
+
+N/A
+
+2020
+
+Seung In Seo, Seng Chan You, Chan Hyuk Park, Tae Joon Kim, You Sang Ko, Yerim Kim, Jong Jin Yoo, **Jinseob Kim**, Woon Geon Shin
+
