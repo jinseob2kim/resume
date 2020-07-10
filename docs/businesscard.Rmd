@@ -1,0 +1,55 @@
+---
+phone: "010-9192-5385"
+email: "jinseob2kim@zarathu.com"
+url: www.zarathu.com
+address: |
+  서울시 서초구 강남대로 369, 12-1319 (마이워크스페이스 3호점)
+logo: "https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/Color%20logo%20-%20no%20background.png"
+person: 
+  - name: 김진섭, 예방의학 전문의
+    title: 연구지원 전문가
+    repeat: 1
+  - name: Jinseob Kim, MD, MPH
+    title: Research supporter
+    phone: +82 10-9192-5385
+    email: jinseob2kim@zarathu.com
+    url: www.zarathu.com
+    address: 12-1319, 369, Gangnam-daero, Seocho-gu, Seoul, Korea
+    repeat: 1
+googlefonts: "Do Hyeon" # feel free to try other fonts at https://fonts.google.com
+paperwidth: 8.5in
+paperheight: 11in
+cardwidth: 3.5in
+cardheight: 2in
+cols: 2
+rows: 3
+output: pagedown::business_card
+---
+
+
+
+<!-- if you prefer black text on white background, set eval=TRUE on the chunk below -->
+
+```{css, eval=T}
+.wrapper {
+  color: black;
+  background-color: white;
+  border: 1px dotted black;
+}
+.coordinates {
+  color: #333;
+}
+
+```{css}
+.logo {
+  display: block;
+  height: 25%;
+  margin-right: .3in;
+  padding: .3in 0 0;
+  float: right;
+}
+.name {
+  margin-top: .1in;
+}
+```
+
