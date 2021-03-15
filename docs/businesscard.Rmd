@@ -7,7 +7,7 @@ address: |
 logo: "https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/Color%20logo%20-%20no%20background.png"
 person: 
   - name: 김진섭, 예방의학 전문의
-    title: 연구지원 전문가
+    title: 의학연구지원, 대표
     repeat: 1
   - name: Jinseob Kim, MD, MPH
     title: Research supporter
