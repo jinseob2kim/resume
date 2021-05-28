@@ -160,6 +160,25 @@ Jincheon-gun, Chungcheongbuk-do, Korea
 - Customized statistical applications for medical research($6,000).
 
 
+### Certificate of Venture Business
+
+[Kibo](https://www.kibo.or.kr/main/index.do)
+
+Busan, Korea
+
+2021
+
+
+### Contactless Startup Support Program
+
+[Ministry of SMEs and Startups](https://www.k-startup.go.kr/univ/cmm/main/mainPage.do)
+
+Daejeon, Korea
+
+2021
+
+- Blockchain based Data input, management, analysis platform($130,000).
+
 
 Presentation {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
