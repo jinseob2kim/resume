@@ -1,5 +1,5 @@
 ---
-phone: "010-9192-5385"
+phone: "xxxx"
 email: "jinseob2kim@zarathu.com"
 url: www.zarathu.com
 address: |
@@ -11,7 +11,7 @@ person:
     repeat: 1
   - name: Jinseob Kim, MD, MPH
     title: Research supporter
-    phone: +82 10-9192-5385
+    phone: xxxx
     email: jinseob2kim@zarathu.com
     url: www.zarathu.com
     address: 12-1319, 369, Gangnam-daero, Seocho-gu, Seoul, Korea
