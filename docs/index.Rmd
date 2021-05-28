@@ -177,7 +177,7 @@ Daejeon, Korea
 
 2021
 
-- Blockchain based Data input, management, analysis platform($130,000).
+- Blockchain based Data input, management, analysis Platform($130,000).
 
 
 Presentation {data-icon=chalkboard-teacher}
