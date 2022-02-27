@@ -124,6 +124,16 @@ Seoul, Korea
 - Provide general statistical applications with web: http://app.zarathu.com
 - Develop [R packages](https://cran.r-project.org/package=jsmodule) for the applications
 
+### Adjunct Professor
+
+Department of Biohealth Regulatory Science, Sungkyunkwan University
+
+Suwon, Korea
+
+2022
+
+- Lecuture: Big data analysis using R
+
 
 Award {data-icon=award}
 --------------------------------------------------------------------------------
@@ -178,6 +188,17 @@ Daejeon, Korea
 2021
 
 - Blockchain based Data input, management, analysis Platform($130,000).
+
+
+### Songpa ICT Business Incubating for Young Entrepreneur
+
+[Seoul Center for Creative Economy & Innovation](http://songpaict.com/)
+
+Seoul, Korea
+
+2021
+
+- Blockchain based Data input, management, analysis Platform.
 
 
 Presentation {data-icon=chalkboard-teacher}
