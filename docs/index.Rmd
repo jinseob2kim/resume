@@ -134,6 +134,15 @@ Suwon, Korea
 
 - Lecuture: Big data analysis using R
 
+### SW Maestro Mentor
+
+Ministry of Science and ICT
+
+Sejong, Korea
+
+2022
+
+
 
 Award {data-icon=award}
 --------------------------------------------------------------------------------
@@ -199,6 +208,18 @@ Seoul, Korea
 2021
 
 - Blockchain based Data input, management, analysis Platform.
+
+
+### ICT R&D project
+
+[IITP](https://www.iitp.kr/)
+
+Daejeon, Korea
+
+2022
+
+- Cloud based open-source statistical software developmen($840,000)
+
 
 
 Presentation {data-icon=chalkboard-teacher}
@@ -434,7 +455,7 @@ Kyeong Deok Kim, Kyo Won Lee, Ji Eun Lee, Jeong Ah Hwang, Sung Jun Jo, **Jinseob
 
 ### Aspirin, metformin, and statin use on the risk of gastric cancer: A nationwide population-based cohort study in Korea with systematic review and meta-analysis
 
-[Cancer Med. 2021 Dec 30. doi: 10.1002/cam4.4514](https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.4514)
+[Cancer Med. 2021 Dec 30](https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.4514)
 
 N/A
 
@@ -445,7 +466,7 @@ Seung In Seo, Chan Hyuk Park, Tae Jun Kim, Chang Seok Bang, Jae Young Kim, Kyung
 
 ### Bismuth-Based Quadruple Therapy versus Metronidazole-Intensified Triple Therapy as a First-Line Treatment for Clarithromycin-Resistant Helicobacter pylori Infection: A Multicenter Randomized Controlled Trial
 
-[Gut Liver. 2022 Feb 11. doi: 10.5009/gnl210365](https://www.gutnliver.org/journal/view.html?doi=10.5009/gnl210365)
+[Gut Liver. 2022 Feb 11](https://www.gutnliver.org/journal/view.html?doi=10.5009/gnl210365)
 
 N/A
 
@@ -453,3 +474,35 @@ N/A
 
 Seung In Seo, Hyun Lim, Chang Seok Bang, Young Joo Yang, Gwang Ho Baik, Sang Pyo Lee, Hyun Joo Jang, Sea Hyub Kae, **Jinseob Kim**, Hak Yang Kim, and Woon Geon Shin
 
+
+### Incidence and Survival Outcomes of Colorectal Cancer in Long-Term Metformin Users with Diabetes: A Population-Based Cohort Study Using a Common Data Model
+
+[J Pers Med. 2022 Apr 5;12(4):584](https://www.mdpi.com/2075-4426/12/4/584)
+
+N/A
+
+2022
+
+Seung In Seo, Tae Jun Kim, Chan Hyuk Park, Chang Seok Bang, Kyung Joo Lee, **Jinseob Kim**, Hyon Hee Kim, Woon Geon Shin
+
+
+### Long-term proton pump inhibitor use and risk of osteoporosis and hip fractures: A nationwide population-based and multicenter cohort study using a common data model
+
+[J Gastroenterol Hepatol. 2022 May 2](https://onlinelibrary.wiley.com/doi/10.1111/jgh.15879)
+
+N/A
+
+2022
+
+Da Hee Park, Seung In Seo, Kyung Joo Lee, **Jinseob Kim**, Yerim Kim, Won-Woo Seo, Hyung Seok Lee, Woon Geon Shin, Jong Jin Yoo
+
+
+### Impact of pitavastatin on new-onset diabetes mellitus compared to atorvastatin and rosuvastatin: a distributed network analysis of 10 real-world databases
+
+[Cardiovasc Diabetol. 2022 May 23;21(1):82](https://cardiab.biomedcentral.com/articles/10.1186/s12933-022-01524-6)
+
+N/A
+
+2022
+
+Won-Woo Seo, Seung In Seo, Yerim Kim, Jong Jin Yoo, Woon Geon Shin, **Jinseob Kim**, Seng Chan You, Rae Woong Park, Young Min Park, Kyung-Jin Kim, Sang Youl Rhee, Meeyoung Park, Eun-Sun Jin & Sung Eun Kim
