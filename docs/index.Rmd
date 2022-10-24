@@ -506,3 +506,14 @@ N/A
 2022
 
 Won-Woo Seo, Seung In Seo, Yerim Kim, Jong Jin Yoo, Woon Geon Shin, **Jinseob Kim**, Seng Chan You, Rae Woong Park, Young Min Park, Kyung-Jin Kim, Sang Youl Rhee, Meeyoung Park, Eun-Sun Jin & Sung Eun Kim
+
+
+### Risks of Long-term use of Proton Pump Inhibitor on Ischemic Vascular Events: A distributed network analysis of 5 real-world observational Korean databases using a Common Data Model
+
+[Int J Stroke. 2022 Oct 3](https://journals.sagepub.com/doi/abs/10.1177/17474930221133219)
+
+N/A
+
+2022
+
+Yerim Kim, Seung In Seo, Kyung Joo Lee, **Jinseob Kim**, Jong Jin Yoo, Won-Woo Seo, and Woon Geon Shin

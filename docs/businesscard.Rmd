@@ -3,7 +3,7 @@ phone: "xxxx"
 email: "jinseob2kim@zarathu.com"
 url: www.zarathu.com
 address: |
-  서울시 서초구 강남대로 369, 12-1319 (마이워크스페이스 3호점)
+  서울시 송파구 중대로 135, 서관 11층 (가락동, 아이티벤처타워)
 logo: "https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/Color%20logo%20-%20no%20background.png"
 person: 
   - name: 김진섭, 예방의학 전문의
