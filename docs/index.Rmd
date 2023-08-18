@@ -130,7 +130,7 @@ Department of Biohealth Regulatory Science, Sungkyunkwan University
 
 Suwon, Korea
 
-2022
+2022-2022
 
 - Lecuture: Big data analysis using R
 
@@ -140,7 +140,7 @@ Ministry of Science and ICT
 
 Sejong, Korea
 
-2022
+2022-2023
 
 
 
@@ -517,3 +517,36 @@ N/A
 2022
 
 Yerim Kim, Seung In Seo, Kyung Joo Lee, **Jinseob Kim**, Jong Jin Yoo, Won-Woo Seo, and Woon Geon Shin
+
+
+### Long-term use of proton-pump inhibitor on Alzheimer’s disease: a real-world distributed network analysis of six observational Korean databases using a Common Data Model
+
+[Ther Adv Neurol Disord. 2022 Nov 8](https://journals.sagepub.com/doi/full/10.1177/17562864221135700)
+
+N/A
+
+2022
+
+Yerim Kim, Seung In Seo, Kyung Joo Lee, **Jinseob Kim**, Jong Jin Yoo, Won-Woo Seo, and Woon Geon Shin
+
+
+### Association between cardio-cerebrovascular disease and systemic antipsoriatic therapy in psoriasis patients using population-based data: A nested case–control study
+
+[J Dermatol. 2023 Jul 30](https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.16904)
+
+N/A
+
+2023
+
+Bo Ri Kim, Kun Hee Lee, **Jinseob Kim**, Jee Woo Kim, Kyungho Paik, Woojae Myung, Hyewon Lee, Chong Won Choi , Sang Woong Youn
+
+
+### Cardiovascular Outcomes of Coronary Computed Tomography Angiography Versus Functional Testing in Suspected Coronary Syndromes: Real‐World Evidence From the Nationwide Cohort
+
+[J Am Heart Assoc. 2023 Aug 15](https://www.ahajournals.org/doi/full/10.1161/JAHA.123.029484)
+
+N/A
+
+2023
+
+Jinhwan Jo,  Min Jae Cha,  Hee Jeong Lee,  William D. Kim, **Jinseob Kim**, Kyung Eun Ha,  Subin Kim,  Chi Young Shim,  Geu‐Ru Hong, Jong‐Won Ha, Iksung Cho
