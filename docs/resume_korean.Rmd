@@ -1,6 +1,6 @@
 ---
-title: "Jinseob Kim's resume"
-author: Jinseob Kim
+title: "김진섭 소개"
+author: 김진섭
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -11,84 +11,76 @@ output:
 Aside
 ================================================================================
 
-![Jinseob Kim](http://ruck2018.r-kor.org/wp-content/uploads/2018/08/jinseob2kim.jpg){width=80%}
+![김진섭](http://ruck2018.r-kor.org/wp-content/uploads/2018/08/jinseob2kim.jpg){width=80%}
 
 
 
-Contact Info {#contact}
+연락 정보 {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> jinseob2kim@zarathu.com
 - <i class="fa fa-github"></i> [github.com/jinseob2kim](https://github.com/jinseob2kim)
-- For more information, please contact me via email.
 
 
-Skills {#skills}
+보유기술 {#skills}
 --------------------------------------------------------------------------------
 
-- Statistical analysis/consulting, R package & Shiny app development.
+- 통계분석/컨설팅, R 패키지 및 Shiny 개발.
 
-- Experience with various health data(e.g. clinical, genome, mobile and wearable)
+- 다양한 건강데이터를 다룬 경험(임상, 유전체, 모바일/웨어러블)
 
-- DevOps building with Docker, Docker swarm and CI/CD pipeline.
+- Docker 활용 데브옵스 구축, Docker swarm and CI/CD pipeline.
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+이 소개서는 R패키지 [**pagedown**](https://github.com/rstudio/pagedown) 으로 만들었습니다.
 
-Last updated on `r Sys.Date()`.
+최종 수정 날짜 `r Sys.Date()`.
 
-![Zarthu](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/Color%20logo%20-%20no%20background.png){width=100%}
+![차라투 주식회사](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/Color%20logo%20-%20no%20background.png){width=100%}
 
 
-Main
+소개
 ================================================================================
 
-Jinseob Kim {#title}
+김진섭 {#title}
 --------------------------------------------------------------------------------
 
-### Currently CEO of [Zarathu Co.,Ltd](https://www.zarathu.com)
+### 차라투 주식회사 CEO(https://www.zarathu.com)
 
-I'd like to contribute to medical research through customized statistical support.
+맞춤형 의료데이터분석으로 의학연구발전에 기여하겠습니다.
 
 
-
-Education {data-icon=graduation-cap data-concise=true}
+학력 {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Sungkyunkwan University School of Medicine
+### 성균관대학교 의과대학
 
-B.S. in Medicine
+의학사
 
-Suwon, Korea 
+수원, 2009
 
-2009
+의사
 
-Medical Doctor
+### 서울대학교 보건대학원
 
-### Seoul National University
+보건학 석사
 
-Master of Public Health
+서울, 2014
 
-Seoul, Korea 
+논문제목: 전장유전체분석에서 일란성 쌍둥이 정보의 활용
 
-2014
+### 서울대학교 보건대학원
 
-Thesis: Linkage Disequilibrium Information within Monozygotic Twin Pairs 
+유전체역학 박사수료
 
-### Seoul National University
-
-Ph.D candidate in Genetic Epidemiology
-
-Seoul, Korea 
-
-2018
+서울, 2018
 
 
 
-Experience {data-icon=laptop}
+경력 {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ### Residency in Preventive Medicine
@@ -218,8 +210,7 @@ Daejeon, Korea
 
 2022
 
-- Cloud based open-source statistical software developmen($840,000)
-
+- Cloud based open-source statistical software development($840,000)
 
 ### Open-source R&D project
 
@@ -241,6 +232,7 @@ Daejeon, Korea
 2023
 
 - Statistical software for medical data analysis($90,000)
+
 
 Presentation {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
