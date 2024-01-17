@@ -11,46 +11,48 @@ output:
 Aside
 ================================================================================
 
-![김진섭](http://ruck2018.r-kor.org/wp-content/uploads/2018/08/jinseob2kim.jpg){width=80%}
+![Jinseob Kim](http://ruck2018.r-kor.org/wp-content/uploads/2018/08/jinseob2kim.jpg){width=80%}
 
 
 
-연락 정보 {#contact}
+연락처 {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> jinseob2kim@zarathu.com
 - <i class="fa fa-github"></i> [github.com/jinseob2kim](https://github.com/jinseob2kim)
+- 추가 문의사항은 이메일로 연락주세요.
 
 
-보유기술 {#skills}
+보유 능력 {#skills}
 --------------------------------------------------------------------------------
 
-- 통계분석/컨설팅, R 패키지 및 Shiny 개발.
+- 통계 분석 및 컨설팅, R 패키지 및 Shiny 애플리케이션 개발.
 
-- 다양한 건강데이터를 다룬 경험(임상, 유전체, 모바일/웨어러블)
+- 보건의료데이터에 대한 폭넓은 이해(임상, 유전체, 모바일/웨어러블 의료기기 등)
 
-- Docker 활용 데브옵스 구축, Docker swarm and CI/CD pipeline.
+- Docker, Docker Swarm을 이용한 DevOps, CI/CD 파이프라인.
 
 
-Disclaimer {#disclaimer}
+면책 조항 {#disclaimer}
 --------------------------------------------------------------------------------
 
-이 소개서는 R패키지 [**pagedown**](https://github.com/rstudio/pagedown) 으로 만들었습니다.
+이 이력서는 R 패키지 [**pagedown**](https://github.com/rstudio/pagedown)로 작성되었습니다.
 
-최종 수정 날짜 `r Sys.Date()`.
+최종 업데이트: `r Sys.Date()`
 
-![차라투 주식회사](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/Color%20logo%20-%20no%20background.png){width=100%}
+![Zarthu](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/Color%20logo%20-%20no%20background.png){width=100%}
 
 
-소개
+
+Main
 ================================================================================
 
 김진섭 {#title}
 --------------------------------------------------------------------------------
 
-### 차라투 주식회사 CEO(https://www.zarathu.com)
+### 현재 [차라투 주식회사](https://www.zarathu.com) CEO
 
-맞춤형 의료데이터분석으로 의학연구발전에 기여하겠습니다.
+각 연구에 알맞은 통계 지원을 통해 의학 연구에 기여하고자 합니다.
 
 
 학력 {data-icon=graduation-cap data-concise=true}
@@ -60,186 +62,192 @@ Disclaimer {#disclaimer}
 
 의학사
 
-수원, 2009
+수원
+
+2009
 
 의사
 
-### 서울대학교 보건대학원
+### 서울대학교
 
-보건학 석사
+공중보건학 석사
 
-서울, 2014
+서울
 
-논문제목: 전장유전체분석에서 일란성 쌍둥이 정보의 활용
+2014
 
-### 서울대학교 보건대학원
+졸업논문: Linkage Disequilibrium Information within Monozygotic Twin Pairs 
 
-유전체역학 박사수료
+### 서울대학교
 
-서울, 2018
+유전역학 박사 수료
+
+서울
+
+2018
 
 
 
-경력 {data-icon=laptop}
+Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Residency in Preventive Medicine
+### 예방의학 전문의
 
-Graduate School of Public Health, Seoul National University
+서울대학교 보건대학원 공중보건학
 
-Seoul, Korea
+서울
 
 2013
 
 
-### Software Engineer
+### 소프트웨어 엔지니어
 
-Samsung Electronics Co., Ltd.
+삼성전자 주식회사
 
-Suwon, Korea
+수원
 
 2014 - 2016
 
-- Develop digital healthcare solution, DMC R&D center
-- Analyze mobile health data(Samsung Health, Gear), Mobile Division
+- DMC R&D center, 디지털 헬스케어 솔루션 개발
+- 모바일사업부, 모바일 건강데이터 분석(삼성헬스, 기어)
 
 
-### Founder & CEO
+### 창립자 & CEO
 
-Zarathu Co., Ltd
+차라투 주식회사
 
-Seoul, Korea
+서울
 
 2018
 
-- Provide customized statistical applications to medical researchers
-- Provide general statistical applications with web: http://app.zarathu.com
-- Develop [R packages](https://cran.r-project.org/package=jsmodule) for the applications
+- 의학 연구자에게 개별 연구에 알맞는 통계 분석 애플리케이션을 제공합니다.
+- 웹에서 일반적인 통계 분석 애플리케이션을 제공합니다: https://openstat.ai
+- [R 패키지](https://cran.r-project.org/package=jsmodule)를 개발합니다.
 
-### Adjunct Professor
+### 겸임교수
 
-Department of Biohealth Regulatory Science, Sungkyunkwan University
+성균관대학교 바이오헬스규제과학과
 
-Suwon, Korea
+수원
 
 2022-2022
 
-- Lecuture: Big data analysis using R
+- 강의: R을 이용한 빅데이터 분석
 
-### SW Maestro Mentor
+### 소프트웨어 마에스트로 멘토
 
-Ministry of Science and ICT
+과학기술정보통신부
 
-Sejong, Korea
+세종
 
 2022-2023
 
 
 
-Award {data-icon=award}
+수상 {data-icon=award}
 --------------------------------------------------------------------------------
 
-### Startup Support Program
+### 스타트업 지원사업
 
-[Ministry of SMEs and Startups](https://www.k-startup.go.kr/univ/cmm/main/mainPage.do)
+[중소기업벤처부](https://www.k-startup.go.kr/univ/cmm/main/mainPage.do)
 
-Daejeon, Korea
+대전
 
 2018
 
-- Blockchain based Health Big Data Platform and Precision Medicine Solution($50,000).
+- 블록체인 기반 의료빅데이터 플랫폼 및 정밀 의료 솔루션($50,000)
 
-### Startup Idea Competition
+### 보건의료빅데이터 활용 창업경진대회
 
-[Health Insurance Review & Assessment Service](https://opendata.hira.or.kr/home.do)
+[건강보험심사평가원](https://opendata.hira.or.kr/home.do)
 
-Wonju, Korea
+원주
 
 N/A
 
-- Customized statistical applications for medical research. 
+- 의학 연구를 위한 의료데이터 분석웹
 
 
-### K-Global Cloud based SW DevOps Support Program
+### K-글로벌 클라우드 기반 SW DevOps 지원사업
 
-[National IT Industry Promotion Agency](http://me2.do/F2czYdSS)
+[정보통신산업진흥원](http://me2.do/F2czYdSS)
 
-Jincheon-gun, Chungcheongbuk-do, Korea
+진천
 
 2020
 
-- Customized statistical applications for medical research($6,000).
+- 의학 연구를 위한 의료데이터 분석웹($6,000)
 
 
-### Certificate of Venture Business
+### 벤처기업인증
 
-[Kibo](https://www.kibo.or.kr/main/index.do)
+[기술보증기금](https://www.kibo.or.kr/main/index.do)
 
-Busan, Korea
-
-2021
-
-
-### Contactless Startup Support Program
-
-[Ministry of SMEs and Startups](https://www.k-startup.go.kr/univ/cmm/main/mainPage.do)
-
-Daejeon, Korea
+부산
 
 2021
 
-- Blockchain based Data input, management, analysis Platform($130,000).
+
+### 비대면 스타트업 지원사업
+
+[중소기업벤처부](https://www.k-startup.go.kr/univ/cmm/main/mainPage.do)
+
+대전
+
+2021
+
+- 블록체인 기반 데이터 입력, 관리, 분석플랫폼($130,000).
 
 
-### Songpa ICT Business Incubating for Young Entrepreneur
+### 송파ICT 비즈니스 인큐베이터 지원사업
 
-[Seoul Center for Creative Economy & Innovation](http://songpaict.com/)
+[서울창조경제혁신센터](http://songpaict.or.kr/)
 
 Seoul, Korea
 
 2021
 
-- Blockchain based Data input, management, analysis Platform.
+- 블록체인 기반 데이터 입력, 관리, 분석 플랫폼
 
 
-### ICT R&D project
+### 정보통신·방송 기술개발사업 및 표준개발지원사업
 
 [IITP](https://www.iitp.kr/)
 
-Daejeon, Korea
+대전
 
 2022
 
-- Cloud based open-source statistical software development($840,000)
+- 공개SW 기반의 클라우드 통계 패키지 SW 개발($840,000)
 
-### Open-source R&D project
+
+### 오픈소스 R&D 프로젝트
 
 [NIPA](https://nipa.kr/)
 
+대전
+
+2023
+
+- SaaS 기반 오픈소스 의료데이터 분석 애플리케이션($160,000)
+
+
+### 바이오헬스 R&D 프로젝트
+
+[중소기업벤처부](https://www.k-startup.go.kr/univ/cmm/main/mainPage.do)
+
 Daejeon, Korea
 
 2023
 
-- SaaS based open-source medical data analysis application($160,000)
+- 의료데이터 분석을 위한 통계프로그램($90,000)
 
-
-### Bio-health R&D Project
-
-[Ministry of SMEs and Startups](https://www.k-startup.go.kr/univ/cmm/main/mainPage.do)
-
-Daejeon, Korea
-
-2023
-
-- Statistical software for medical data analysis($90,000)
-
-
-Presentation {data-icon=chalkboard-teacher}
+발표 {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### DevOps Building for Customized Statistical Application.
 
-[R User Conference in Korea(RUCK 2018)](http://ruck2018.r-kor.org/presentations/RUCK2018-%EA%B9%80%EC%A7%84%EC%84%AD-%EB%A7%9E%EC%B6%A4%ED%98%95_%EC%9D%98%ED%95%99%ED%86%B5%EA%B3%84_%EC%95%B1_%EC%A0%9C%EC%9E%91%EC%9D%84_%EC%9C%84%ED%95%9C_%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD_%EA%B5%AC%EC%B6%95.html)
+[R 유저 컨퍼런스 in Korea(RUCK 2018)](http://ruck2018.r-kor.org/presentations/RUCK2018-%EA%B9%80%EC%A7%84%EC%84%AD-%EB%A7%9E%EC%B6%A4%ED%98%95_%EC%9D%98%ED%95%99%ED%86%B5%EA%B3%84_%EC%95%B1_%EC%A0%9C%EC%9E%91%EC%9D%84_%EC%9C%84%ED%95%9C_%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD_%EA%B5%AC%EC%B6%95.html)
 
 Seoul, Korea
 
@@ -247,15 +255,15 @@ Seoul, Korea
 
 ### From ShinyApps to CRAN
 
-[R User Conference in Korea(RUCK 2019)](http://ruck2019.r-kor.org/speakers/zarathu/)
+[R 유저 컨퍼런스 in Korea(RUCK 2019)](http://ruck2019.r-kor.org/speakers/zarathu/)
 
 Seoul, Korea
 
 2019
 
-### Blog
+### 블로그
 
-Statistical blog in Korean
+한국어 통계학 블로그
 
 N/A
 
@@ -270,7 +278,7 @@ N/A
 Open Source Contribution {data-icon=code}
 --------------------------------------------------------------------------------
 
-### R Package
+### R 패키지
 
 CRAN
 
@@ -283,7 +291,7 @@ N/A
 - RStudio Addins and Shiny Modules for Medical Research: https://cran.r-project.org/package=jsmodule
 
 
-### Docker Image
+### Docker 이미지
 
 Docker hub
 
@@ -291,12 +299,12 @@ N/A
 
 N/A
 
-- RStudio & Shiny server: https://cloud.docker.com/repository/docker/jinseob2kim/docker-rshiny
+- RStudio & Shiny Server: https://cloud.docker.com/repository/docker/jinseob2kim/docker-rshiny
 
 
 
 
-Selected Publications {data-icon=file}
+논문 및 출판 {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Socioeconomic Status and Number of Children Among Korean Women: The Healthy Twin Study
