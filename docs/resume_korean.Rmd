@@ -1,5 +1,5 @@
 ---
-title: "김진섭 소개"
+title: "김진섭 CV"
 author: 김진섭
 date: "`r Sys.Date()`"
 output:
@@ -11,7 +11,7 @@ output:
 Aside
 ================================================================================
 
-![Jinseob Kim](http://ruck2018.r-kor.org/wp-content/uploads/2018/08/jinseob2kim.jpg){width=80%}
+![Jinseob Kim](https://www.zarathu.com/_next/image?url=%2Fteam%2Fjinseobkim%2Fjinseob.tiff&w=828&q=75){width=80%}
 
 
 
@@ -484,17 +484,6 @@ N/A
 Seung In Seo, Chan Hyuk Park, Tae Jun Kim, Chang Seok Bang, Jae Young Kim, Kyung Joo Lee, **Jinseob Kim**, Hyon Hee Kim, Seng Chan You, Woon Geon Shin
 
 
-### Bismuth-Based Quadruple Therapy versus Metronidazole-Intensified Triple Therapy as a First-Line Treatment for Clarithromycin-Resistant Helicobacter pylori Infection: A Multicenter Randomized Controlled Trial
-
-[Gut Liver. 2022 Feb 11](https://www.gutnliver.org/journal/view.html?doi=10.5009/gnl210365)
-
-N/A
-
-2022
-
-Seung In Seo, Hyun Lim, Chang Seok Bang, Young Joo Yang, Gwang Ho Baik, Sang Pyo Lee, Hyun Joo Jang, Sea Hyub Kae, **Jinseob Kim**, Hak Yang Kim, and Woon Geon Shin
-
-
 ### Incidence and Survival Outcomes of Colorectal Cancer in Long-Term Metformin Users with Diabetes: A Population-Based Cohort Study Using a Common Data Model
 
 [J Pers Med. 2022 Apr 5;12(4):584](https://www.mdpi.com/2075-4426/12/4/584)
@@ -504,6 +493,8 @@ N/A
 2022
 
 Seung In Seo, Tae Jun Kim, Chan Hyuk Park, Chang Seok Bang, Kyung Joo Lee, **Jinseob Kim**, Hyon Hee Kim, Woon Geon Shin
+
+
 
 
 ### Long-term proton pump inhibitor use and risk of osteoporosis and hip fractures: A nationwide population-based and multicenter cohort study using a common data model
@@ -528,6 +519,71 @@ N/A
 Won-Woo Seo, Seung In Seo, Yerim Kim, Jong Jin Yoo, Woon Geon Shin, **Jinseob Kim**, Seng Chan You, Rae Woong Park, Young Min Park, Kyung-Jin Kim, Sang Youl Rhee, Meeyoung Park, Eun-Sun Jin & Sung Eun Kim
 
 
+### Association between Attention Deficit Hyperactivity Disorder Medication and Depression: A 10-year Follow-up Self-controlled Case Study
+
+[Clin Psychopharmacol Neurosci. 2022 May 31](https://doi.org/10.9758/cpn.2022.20.2.320)
+
+N/A
+
+2022
+
+Yunhye Oh, Yoo-Sook Joung, **Jinseob Kim**
+
+
+### The Role of Preoperative 18F-fluorodeoxyglucose Positron Emission Tomography/Computed Tomography in Retroperitoneal Sarcoma
+
+[Front Oncol. 2022 Jun 2](https://doi.org/10.3389/fonc.2022.868823)
+
+N/A
+
+2022
+
+Sung Jun Jo, Kyeong Deok Kim, So Hee Lim, **Jinseob Kim**, Seung Hyup Hyun, Jae Berm Park, Kyo Won Lee
+
+
+### Analysis of the Effect of Tumor-Grade Change on the Prognosis of Retroperitoneal Sarcoma
+
+[Cancers (Basel). 2022 Jun 19](https://doi.org/10.3390/cancers14123020)
+
+N/A
+
+2022
+
+Sung Jun Jo, Kyeong Deok Kim, So Hee Lim, **Jinseob Kim**, Min Jung Kim, Jae Berm Park, Kyo Won Lee
+
+
+### Clinical impact of statin intensity according to age in patients with acute myocardial infarction
+
+[PLoS One. 2022 Jun 15](https://doi.org/10.1371/journal.pone.0269301)
+
+N/A
+
+2022
+
+Kyusup Lee, Myunhee Lee, Dae-Won Kim, **Jinseob Kim**, Sungmin Lim, Eun Ho Choo, Chan Joon Kim, Chul Soo Park, Hee Yeol Kim, Ki-Dong Yoo, Doo Soo Jeon, Kiyuk Chang, Ho Joong Youn, Wook-Sung Chung, Min Chul Kim, Myung Ho Jeong, Youngkeun Ahn, Jongbum Kwon, Mahn-Won Park
+
+### Bismuth-Based Quadruple Therapy versus Metronidazole-Intensified Triple Therapy as a First-Line Treatment for Clarithromycin-Resistant Helicobacter pylori Infection: A Multicenter Randomized Controlled Trial
+
+[Gut Liver. 2022 Sep 15](https://www.gutnliver.org/journal/view.html?doi=10.5009/gnl210365)
+
+N/A
+
+2022
+
+Seung In Seo, Hyun Lim, Chang Seok Bang, Young Joo Yang, Gwang Ho Baik, Sang Pyo Lee, Hyun Joo Jang, Sea Hyub Kae, **Jinseob Kim**, Hak Yang Kim, and Woon Geon Shin
+
+
+### Decreasing Incidence of Gastric Cancer with Increasing Time after Helicobacter pylori Treatment: A Nationwide Population-Based Cohort Study
+
+[Antibiotics (Basel). 2022 Aug](https://doi.org/10.3390/antibiotics11081052)
+
+N/A
+
+2022
+
+Taewan Kim, Seung In Seo, Kyung Joo Lee, Chan Hyuk Park, Tae Jun Kim, **Jinseob Kim**, Woon Geon Shin
+
+
 ### Risks of Long-term use of Proton Pump Inhibitor on Ischemic Vascular Events: A distributed network analysis of 5 real-world observational Korean databases using a Common Data Model
 
 [Int J Stroke. 2022 Oct 3](https://journals.sagepub.com/doi/abs/10.1177/17474930221133219)
@@ -548,6 +604,17 @@ N/A
 2022
 
 Yerim Kim, Seung In Seo, Kyung Joo Lee, **Jinseob Kim**, Jong Jin Yoo, Won-Woo Seo, and Woon Geon Shin
+
+
+### Effect of pre-operative radiation therapy on surgical outcome in retroperitoneal sarcoma
+
+[Front Surg. 2023 Jun 12](https://doi.org/10.3389/fsurg.2023.1209698)
+
+N/A
+
+2023
+
+Sung Jun Jo, Sean S. W. Park, Gyu Sang Yoo, Kyeong Deok Kim, So Hee Lim, **Jinseob Kim**, Min Jung Kim, Jeong Il Yu, Jae Berm Park, Kyo Won Lee
 
 
 ### Association between cardio-cerebrovascular disease and systemic antipsoriatic therapy in psoriasis patients using population-based data: A nested case–control study
@@ -581,3 +648,93 @@ N/A
 2023
 
 Jae-woo Lee, Seung-Young Roh, Woong-Su Yoon,  **Jinseob Kim**, Eunseo Jo, Dae-Hwan Bae, Min Kim,  Ju-Hee Lee, Sang Min Kim, Woong Gil Choi, Jang-Whan Bae, Kyung-Kuk Hwang,  Dong-Woon Kim, Myeong-Chan Cho,  Ye-Seul Kim,  Yonghwan Kim, Hyo-Sun You, Hee-Taik Kang, Dae-In Lee
+
+
+### Timely Pulmonary Tuberculosis Diagnosis Based on the Epidemiological Disease Spectrum: Population-Based Prospective Cohort Study in the Republic of Korea
+
+[JMIR Public Health Surveill. 2024 Feb](https://doi.org/10.2196/47422)
+
+N/A
+
+2024
+
+Yousang Ko, Jae Seuk Park, Jinsoo Min, Hyung Woo Kim, Hyeon-Kyoung Koo, Jee Youn Oh, Yun-Jeong Jeong, Eun Hye Lee, Bumhee Yang, Ju Sang Kim, Sung-Soon Lee, Yunhyung Kwon, Jiyeon Yang, Jiyeon Han, You Jin Jang, **Jinseob Kim**
+
+### Safety of BNT162b2 mRNA COVID-19 vaccine in children with chronic kidney disease: a national population study from South Korea
+
+[Pediatr Nephrol. 2024 Feb](https://doi.org/10.1007/s00467-023-06195-3)
+
+N/A
+
+2024
+
+Young June Choe, Yo-Han Ahn, Eunsun Kwak, Eunseo Jo, **Jinseob Kim**, Seung-Ah Choe
+
+
+### Reduced Alcohol Consumption and Major Adverse Cardiovascular Events Among Individuals With Previously High Alcohol Consumption
+
+[JAMA Netw Open. 2024 Mar 1](https://doi.org/10.1001/jamanetworkopen.2024.4)
+
+N/A
+
+2024
+
+Dong Oh Kang, MD, PhD; Dae-In Lee, MD, PhD; Hae-Young Lee, MD, PhD; **Jinseob Kim**, PhD; Minsu Kim, MD; Soo-Hyun Park, MD; Ji-Young Lee, MD; Hee-Taik Kang, MD, PhD; Yun-Seok Choi, MD, PhD
+
+
+### Evaluating Discrepancies in Mitral Valve Area and Pressure Gradient: Implications for Diagnosing Severe Mitral Stenosis Under the 2023 Revised American Society of Echocardiography Recommendations
+
+[J Am Soc Echocardiogr. 2024 Nov](https://doi.org/10.1016/j.echo.2024.06.015)
+
+N/A
+
+2024
+
+Iksung Cho, Dae-Young Kim, **Jinseob Kim**, Ha Jeong Lim, In-Cheol Kim, In-Jai Kim, Jang-Won Son, Chi Young Shim, Jong-Won Ha, Geu-Ru Hong
+
+
+
+### Prevalence of high-risk group for obstructive sleep apnea using the STOP-Bang questionnaire and its association with cardiovascular morbidity
+
+[Front Neurol. 2024 Jan](https://doi.org/10.3389/fneur.2024.1394345)
+
+N/A
+
+2024
+
+Jieun Kang, Hyeon-Kyoung Koo, Hyung Koo Kang, Woo Jung Seo, Jiyeon Kang, **Jinseob Kim**
+
+
+
+### Diagnostic Performance of the Modified Lung-RADS in a Tuberculosis-endemic Country: The Korean National Lung Cancer Screening Program
+
+[Chest. 2025 Jan 28](https://doi.org/10.1016/j.chest.2025.01.020)
+
+N/A
+
+2025
+
+Hyungjin Kim, Eunseo Jo, **Jinseob Kim**, Nayoung Lee, Jin Mo Goo, Yeol Kim
+
+
+### The Role of the Parametric Thyroid Feedback Quantile Index in Cardiovascular Risk Evaluation Among Euthyroid Koreans
+
+[J Clin Endocrinol Metab. 2025 Jan](https://doi.org/10.1210/clinem/dgaf046)
+
+N/A
+
+2025
+
+Hun Jee Choe, Yun Mi Choi, Yeonjung Ha, **Jinseob Kim**, Minhyuk Kim, Ho Jin Cha, Jiwoo Lee, Mi Kyung Kwak, Eun-Gyoung Hong
+
+
+### Low-density lipoprotein cholesterol levels and risk of incident dementia: a distributed network analysis using common data models
+
+[J Neurol Neurosurg Psychiatry. 2025 Apr](https://doi.org/10.1136/jnnp-2024-334708)
+
+N/A
+
+2025
+
+Minwoo Lee, Kyung Joo Lee, **Jinseob Kim**, Dae Yun Lee, Rae Woong Park, Sang Youl Rhee, Jae Moon Cha, Hyun Jung Yang, Jae Won Jang, Seungwon Jung, Jaehoon Lee, Seung Hwan Lee, Changwon Kim, Jae Seung Bae, Young Jin Kim, Jae-Ho Lee, Hyun Bae, Younghoon Kim
+
